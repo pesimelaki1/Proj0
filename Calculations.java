@@ -1,3 +1,5 @@
+//jana georgievski
+
 import java.util.Scanner;
 public class Calculations {
    public static void main(String[] args) {
@@ -26,3 +28,4 @@ public class Calculations {
       secondS.charAt(secondS.length()-1)); 
 }
 }
+
