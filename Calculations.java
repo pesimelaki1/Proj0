@@ -1,5 +1,3 @@
-//jana georgievski
-
 import java.util.Scanner;
 public class Calculations {
    public static void main(String[] args) {
